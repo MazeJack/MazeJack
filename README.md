@@ -26,5 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazejack&show_icons=true&locale=en&layout=compact" alt="mazejack" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazejack&show_icons=true&locale=en" alt="mazejack" /></p>
-[![An image of @mazejack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mazejack)](https://holopin.io/@mazejack)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazejack&" alt="mazejack" /></p>
+https://holopin.me/mazejack)](https://holopin.io/@mazejack
