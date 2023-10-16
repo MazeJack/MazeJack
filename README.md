@@ -30,3 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazejack&" alt="mazejack" /></p>
 <!-- https://holopin.me/mazejack)](https://holopin.io/@mazejack -->
+
+[![An image of @mazejack's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mazejack)](https://holopin.io/@mazejack)
