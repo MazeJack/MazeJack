@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazejack&label=Profile%20views&color=0e75b6&style=flat" alt="mazejack" /> </p>
 
-- 🌱 I’m currently learning **Dsa & Python for DataScience**
+- 🌱 I’m currently learning **Dsa & Spring Boot**
 
 - 📫 How to reach me **dumaniyaabhishek@gmail.com**
 
